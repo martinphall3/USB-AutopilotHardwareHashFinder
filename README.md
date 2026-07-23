@@ -72,4 +72,5 @@ This allows hardware hashes to be collected before a user account is created. Af
 If you have many `.csv` files:
 
 1. Run `combiner.ps1`.
+
 2. The combined output will be saved as `combined.csv` in the same directory as `combiner.ps1`.
