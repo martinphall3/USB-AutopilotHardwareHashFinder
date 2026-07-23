@@ -39,9 +39,15 @@ The `Hashes` folder is where the generated CSV files will be stored.
 
 5. Run `HWID.cmd`.
 
-6. After the script completes, a CSV file will be created in: USB:\Hashes\
+6. After the script completes, a CSV file will be created in:
 
-7. Repeat the process for as many devices as you need.
+```
+USB Drive
+│
+└── Hashes
+```
+
+8. Repeat the process for as many devices as you need.
 
 ---
 
